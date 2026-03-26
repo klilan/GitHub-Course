@@ -1,0 +1,61 @@
+{
+  "emoji": {
+    "faces": "😀😃😄😁😆🥹😅🤣😂🙂🫠",
+    "flags": "🇺🇸🇬🇧🇫🇷🇩🇪🇯🇵🇨🇳🇷🇺🇧🇷🇮🇳🇰🇷",
+    "symbols": "❤️✨🔥💯🎉🎊🎵🎶⚡️🌈",
+    "complex": "👨‍👩‍👧‍👦 👩🏽‍💻 🏳️‍🌈 🇺🇳"
+  },
+  "cjk": {
+    "chinese_simplified": "这是一个测试文件，包含中文简体字符",
+    "chinese_traditional": "這是一個測試檔案，包含中文繁體字符",
+    "japanese_hiragana": "これはテストファイルです",
+    "japanese_katakana": "テストファイル",
+    "japanese_kanji": "試験文書",
+    "korean": "이것은 테스트 파일입니다"
+  },
+  "arabic_and_rtl": {
+    "arabic": "هذا ملف اختبار يحتوي على نص عربي",
+    "hebrew": "זהו קובץ בדיקה המכיל טקסט בעברית",
+    "persian": "این یک فایل آزمایشی است",
+    "mixed_rtl_ltr": "Hello مرحبا World عالم 123"
+  },
+  "european": {
+    "german": "Ä Ö Ü ä ö ü ß — Straße, Größe, Übung",
+    "french": "à â ç é è ê ë î ï ô ù û ü — café, résumé, naïve",
+    "spanish": "á é í ó ú ñ ¿ ¡ — señor, año, niño",
+    "portuguese": "ã õ ç — ação, coração, atenção",
+    "polish": "ą ć ę ł ń ó ś ź ż — źródło, żółw",
+    "czech": "á č ď é ě í ň ó ř š ť ú ů ý ž — příliš žluťoučký kůň",
+    "russian": "Привет мир! Тестовый JSON файл с кириллицей"
+  },
+  "indic": {
+    "hindi": "यह एक परीक्षण फ़ाइल है",
+    "thai": "นี่คือไฟล์ทดสอบ",
+    "tamil": "இது ஒரு சோதனை கோப்பு"
+  },
+  "special_chars": {
+    "newlines": "line1\nline2\nline3",
+    "tabs": "col1\tcol2\tcol3",
+    "quotes": "He said \"hello\" and she said 'goodbye'",
+    "backslash": "C:\\Users\\test\\file.json",
+    "slash": "https://example.com/path/to/resource",
+    "null_escape": "before\u0000after",
+    "control_chars": "bell:\u0007 backspace:\b formfeed:\f",
+    "zero_width": "zero​width​space",
+    "bidi_override": "‮this text is RTL‬"
+  },
+  "unicode_escapes": {
+    "e_acute_literal": "é",
+    "e_acute_escaped": "é",
+    "chinese_literal": "中",
+    "chinese_escaped": "中",
+    "emoji_literal": "😀",
+    "note": "surrogate pairs (\\ud83d\\ude00) represent emoji in JSON escape sequences"
+  },
+  "math_and_symbols": {
+    "math": "∑ ∏ ∫ √ ∞ ≈ ≠ ≤ ≥ ± × ÷",
+    "currency": "$ € £ ¥ ₹ ₽ ₿ ₩ ₫",
+    "arrows": "← → ↑ ↓ ↔ ↕ ⇐ ⇒ ⇑ ⇓",
+    "box_drawing": "┌─┬─┐\n│ │ │\n├─┼─┤\n│ │ │\n└─┴─┘"
+  }
+}
